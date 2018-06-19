@@ -52,6 +52,7 @@ jobs:
     issueTracker: FxLabs/Stg-GitHub-Bot
     notifications:
       - FxLabs/TeamSlack
+      - FxLabs/shahnotification
   - name: Local
     environment: Local
     tags:
